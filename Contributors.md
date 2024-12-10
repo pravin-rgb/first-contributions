@@ -1,5 +1,6 @@
 # Contributors
 
+-[vishalchauhan] (My first contribution: https://github.com/V1sh4lC)
 - [mushrifshahreyar] (My first contribution: https://github.com/mushrifshahreyar) 
 - [JoachimC] (https://github.com/Joachim280)
 - [Arsalan Mohseni](https://github.com/arsalanmohseni)
@@ -12,8 +13,10 @@
 - [Jide Falaki](https://github.com/jidefal)
 - [Sergio DG](https://github.com/dgsergio)
 - [Starkcover](https://github.com/Starkcover)
+- [Nuhu El Adj Souleymane](https://github.com/elsouleymane)
 - [MichaelAlanAXL]
 - [Lemar Tokham](https://github.com/LemarTokham)
+- [Bird Dog](https://github.com/acuhlian)
 - [Pasindu Kavinda](https://github.com/pasindu-kavinda)
 - [AutumnFrost](https://github.com/AutumnFrost)
 - [Abhinav](https://github.com/saiabhinav75)
@@ -1355,6 +1358,7 @@
 - [Ridwan Oladapo](https://github.com/theridwanoladapo)
 - [Rohail Zubair](https://github.com/Rohail-Zubair)
 - [Johnnoe Dom](https://github.com/johnniedom/)
+- [Sarvesh0955](https://github.com/Sarvesh0955)
 - [MichaelSoto95](https://github.com/MichaelSoto95)
 - [Jorge M Soto Pena](https:://github.com/jorgemsotopena)
 - [Michael](https://github.com/MichaelGrmns)
@@ -1406,3 +1410,4 @@
 - [Shivam Maniya] (https://github.com/shivam-9999)
 - cyber9host
 - nitewing9000
+- [Amin Hassan] (https://github.com/Min1600)
